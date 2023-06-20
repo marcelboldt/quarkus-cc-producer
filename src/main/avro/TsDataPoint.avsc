@@ -1,0 +1,11 @@
+{
+  "namespace": "bayern.boldt.kafka.ml.avro",
+  "type": "record",
+  "name": "TSDataPoint",
+  "fields": [
+    {
+      "name": "value",
+      "type": "int"
+    }
+  ]
+}
